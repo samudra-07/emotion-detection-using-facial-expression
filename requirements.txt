@@ -1,0 +1,14 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+# about cnn: https://www.geeksforgeeks.org/introduction-convolution-neural-network/
+pillow
+Keras-Preprocessing
+scikit-learn
+matplotlib
+# pip install -r requirements.txt
