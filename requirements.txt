@@ -12,4 +12,5 @@ Keras-Preprocessing
 scikit-learn
 matplotlib
 streamlit
+opencv-python-headless
 # pip install -r requirements.txt
