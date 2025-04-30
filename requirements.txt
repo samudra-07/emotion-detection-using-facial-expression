@@ -11,4 +11,5 @@ pillow
 Keras-Preprocessing
 scikit-learn
 matplotlib
+streamlit
 # pip install -r requirements.txt
